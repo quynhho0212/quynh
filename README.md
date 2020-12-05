@@ -4,7 +4,13 @@
 # Hồ Thị Như Quỳnh
 
 git clone
+
 git status
+
 git add.
+
 git commit - m
+
 git push
+
+hii
